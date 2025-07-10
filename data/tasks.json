@@ -1,0 +1,1113 @@
+[
+    {
+        "id": "51877547424",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1016680935,
+            "name": "ShikhiyevRufat/Github-User-Activity-CLI",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Github-User-Activity-CLI"
+        },
+        "payload": {
+            "repository_id": 1016680935,
+            "push_id": 25390164282,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "ce67b8c90e6e0bc31955b9b444ab1dfd4d693401",
+            "before": "e8ec4635f35282f8a156d7f1abfab41c78c1f99c",
+            "commits": [
+                {
+                    "sha": "ce67b8c90e6e0bc31955b9b444ab1dfd4d693401",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "New commit about github",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Github-User-Activity-CLI/commits/ce67b8c90e6e0bc31955b9b444ab1dfd4d693401"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-09T12:44:48Z"
+    },
+    {
+        "id": "51875348933",
+        "type": "PublicEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1015919540,
+            "name": "ShikhiyevRufat/Task-Tracker",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Task-Tracker"
+        },
+        "payload": {},
+        "public": true,
+        "created_at": "2025-07-09T11:56:16Z"
+    },
+    {
+        "id": "51873658106",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1016680935,
+            "name": "ShikhiyevRufat/Github-User-Activity-CLI",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Github-User-Activity-CLI"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "In this project, I build a simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal. This project will help practice programming skills, including working with APIs, handling JSON data, and building a simple CLI application.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2025-07-09T11:15:25Z"
+    },
+    {
+        "id": "51873658051",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1016680935,
+            "name": "ShikhiyevRufat/Github-User-Activity-CLI",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Github-User-Activity-CLI"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "In this project, I build a simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal. This project will help practice programming skills, including working with APIs, handling JSON data, and building a simple CLI application.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2025-07-09T11:15:25Z"
+    },
+    {
+        "id": "51873002355",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1015919540,
+            "name": "ShikhiyevRufat/Task-Tracker",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Task-Tracker"
+        },
+        "payload": {
+            "repository_id": 1015919540,
+            "push_id": 25387968644,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "15a4b62bc9e1129b8c606e2456f06ba5f13f5851",
+            "before": "5519645876c65c70419c886f1d572fbc14c72daa",
+            "commits": [
+                {
+                    "sha": "15a4b62bc9e1129b8c606e2456f06ba5f13f5851",
+                    "author": {
+                        "email": "165466495+ShikhiyevRufat@users.noreply.github.com",
+                        "name": "Shikhiyev Rufat"
+                    },
+                    "message": "Update README.md\n\naddin task url",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Task-Tracker/commits/15a4b62bc9e1129b8c606e2456f06ba5f13f5851"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-09T10:59:49Z"
+    },
+    {
+        "id": "51872943629",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1015919540,
+            "name": "ShikhiyevRufat/Task-Tracker",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Task-Tracker"
+        },
+        "payload": {
+            "repository_id": 1015919540,
+            "push_id": 25387940693,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "5519645876c65c70419c886f1d572fbc14c72daa",
+            "before": "89528e9db391cf692f85f474a6008bd4b088bbe4",
+            "commits": [
+                {
+                    "sha": "5519645876c65c70419c886f1d572fbc14c72daa",
+                    "author": {
+                        "email": "165466495+ShikhiyevRufat@users.noreply.github.com",
+                        "name": "Shikhiyev Rufat"
+                    },
+                    "message": "Update README.md\n\nChanging1",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Task-Tracker/commits/5519645876c65c70419c886f1d572fbc14c72daa"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-07-09T10:58:24Z"
+    },
+    {
+        "id": "50924217215",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24910219514,
+            "size": 2,
+            "distinct_size": 2,
+            "ref": "refs/heads/main",
+            "head": "ac16b2fc6c0feb554595dc97913341ab1dcd5ebd",
+            "before": "209cd29ec9f8440dacbae2e15c424b502f093dd7",
+            "commits": [
+                {
+                    "sha": "a90638b4d126266b1a95aac775e2f41cb728e30d",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "I write Lasso, Ridge, and ElasticNet also",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression/commits/a90638b4d126266b1a95aac775e2f41cb728e30d"
+                },
+                {
+                    "sha": "ac16b2fc6c0feb554595dc97913341ab1dcd5ebd",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "Merge branch 'main' of https://github.com/ShikhiyevRufat/Linear_Regression_OLS",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression/commits/ac16b2fc6c0feb554595dc97913341ab1dcd5ebd"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-15T19:12:19Z"
+    },
+    {
+        "id": "50924185959",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24910199589,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "209cd29ec9f8440dacbae2e15c424b502f093dd7",
+            "before": "a9d4209dc6bb3c5c2209c84c07514ef6ee0dc32b",
+            "commits": [
+                {
+                    "sha": "209cd29ec9f8440dacbae2e15c424b502f093dd7",
+                    "author": {
+                        "email": "165466495+ShikhiyevRufat@users.noreply.github.com",
+                        "name": "Shikhiyev Rufat"
+                    },
+                    "message": "Update README.md\n\nTest13",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression/commits/209cd29ec9f8440dacbae2e15c424b502f093dd7"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-15T19:10:04Z"
+    },
+    {
+        "id": "50886295668",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24886740399,
+            "size": 2,
+            "distinct_size": 2,
+            "ref": "refs/heads/main",
+            "head": "a9d4209dc6bb3c5c2209c84c07514ef6ee0dc32b",
+            "before": "c995d1d88e4dbae1f9452c9ec951fbbf453cda10",
+            "commits": [
+                {
+                    "sha": "cb01732b2c020484bfd3d9fee7d32c1aa29a7622",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "Polynomial Regression",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression/commits/cb01732b2c020484bfd3d9fee7d32c1aa29a7622"
+                },
+                {
+                    "sha": "a9d4209dc6bb3c5c2209c84c07514ef6ee0dc32b",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "Merge branch 'main' of https://github.com/ShikhiyevRufat/Linear_Regression_OLS",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression/commits/a9d4209dc6bb3c5c2209c84c07514ef6ee0dc32b"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-13T19:51:59Z"
+    },
+    {
+        "id": "50837541939",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24862811004,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "c995d1d88e4dbae1f9452c9ec951fbbf453cda10",
+            "before": "ccf0e8c1d38599d87e5f3202233b6ecf028e6504",
+            "commits": [
+                {
+                    "sha": "c995d1d88e4dbae1f9452c9ec951fbbf453cda10",
+                    "author": {
+                        "email": "165466495+ShikhiyevRufat@users.noreply.github.com",
+                        "name": "Shikhiyev Rufat"
+                    },
+                    "message": "Update README.md\n\nTest5",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression/commits/c995d1d88e4dbae1f9452c9ec951fbbf453cda10"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-12T17:46:16Z"
+    },
+    {
+        "id": "50837381543",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression_OLS",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24862736310,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "ccf0e8c1d38599d87e5f3202233b6ecf028e6504",
+            "before": "662b8e271a8b4ee70cc1fcd16a1a114347707906",
+            "commits": [
+                {
+                    "sha": "ccf0e8c1d38599d87e5f3202233b6ecf028e6504",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "Today I work from Multiple Linear Regression",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS/commits/ccf0e8c1d38599d87e5f3202233b6ecf028e6504"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-12T17:41:58Z"
+    },
+    {
+        "id": "50832494086",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 853876483,
+            "name": "ShikhiyevRufat/convertorai",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai"
+        },
+        "payload": {
+            "repository_id": 853876483,
+            "push_id": 24860412138,
+            "size": 2,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "e7ccb27eece008e8b2955d16c47ec54c3188b894",
+            "before": "95e80b9cd3ac16395982f50b24c1d347e982cf5b",
+            "commits": [
+                {
+                    "sha": "41a8a894ec3a124ae858831b8f3ef83d671bb70e",
+                    "author": {
+                        "email": "49699333+dependabot[bot]@users.noreply.github.com",
+                        "name": "dependabot[bot]"
+                    },
+                    "message": "Bump requests from 2.32.3 to 2.32.4\n\nBumps [requests](https://github.com/psf/requests) from 2.32.3 to 2.32.4.\n- [Release notes](https://github.com/psf/requests/releases)\n- [Changelog](https://github.com/psf/requests/blob/main/HISTORY.md)\n- [Commits](https://github.com/psf/requests/compare/v2.32.3...v2.32.4)\n\n---\nupdated-dependencies:\n- dependency-name: requests\n  dependency-version: 2.32.4\n  dependency-type: direct:production\n...\n\nSigned-off-by: dependabot[bot] <support@github.com>",
+                    "distinct": false,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/commits/41a8a894ec3a124ae858831b8f3ef83d671bb70e"
+                },
+                {
+                    "sha": "e7ccb27eece008e8b2955d16c47ec54c3188b894",
+                    "author": {
+                        "email": "165466495+ShikhiyevRufat@users.noreply.github.com",
+                        "name": "Shikhiyev Rufat"
+                    },
+                    "message": "Merge pull request #6 from ShikhiyevRufat/dependabot/pip/requests-2.32.4\n\nBump requests from 2.32.3 to 2.32.4",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/commits/e7ccb27eece008e8b2955d16c47ec54c3188b894"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-12T15:39:37Z"
+    },
+    {
+        "id": "50832493433",
+        "type": "PullRequestEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 853876483,
+            "name": "ShikhiyevRufat/convertorai",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai"
+        },
+        "payload": {
+            "action": "closed",
+            "number": 6,
+            "pull_request": {
+                "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls/6",
+                "id": 2579257112,
+                "node_id": "PR_kwDOMuUfA86ZvFcY",
+                "html_url": "https://github.com/ShikhiyevRufat/convertorai/pull/6",
+                "diff_url": "https://github.com/ShikhiyevRufat/convertorai/pull/6.diff",
+                "patch_url": "https://github.com/ShikhiyevRufat/convertorai/pull/6.patch",
+                "issue_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues/6",
+                "number": 6,
+                "state": "closed",
+                "locked": false,
+                "title": "Bump requests from 2.32.3 to 2.32.4",
+                "user": {
+                    "login": "dependabot[bot]",
+                    "id": 49699333,
+                    "node_id": "MDM6Qm90NDk2OTkzMzM=",
+                    "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+                    "html_url": "https://github.com/apps/dependabot",
+                    "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+                    "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+                    "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+                    "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+                    "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+                    "type": "Bot",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "body": "Bumps [requests](https://github.com/psf/requests) from 2.32.3 to 2.32.4.\n<details>\n<summary>Release notes</summary>\n<p><em>Sourced from <a href=\"https://github.com/psf/requests/releases\">requests's releases</a>.</em></p>\n<blockquote>\n<h2>v2.32.4</h2>\n<h2>2.32.4 (2025-06-10)</h2>\n<p><strong>Security</strong></p>\n<ul>\n<li>CVE-2024-47081 Fixed an issue where a maliciously crafted URL and trusted\nenvironment will retrieve credentials for the wrong hostname/machine from a\nnetrc file. (<a href=\"https://redirect.github.com/psf/requests/issues/6965\">#6965</a>)</li>\n</ul>\n<p><strong>Improvements</strong></p>\n<ul>\n<li>Numerous documentation improvements</li>\n</ul>\n<p><strong>Deprecations</strong></p>\n<ul>\n<li>Added support for pypy 3.11 for Linux and macOS. (<a href=\"https://redirect.github.com/psf/requests/issues/6926\">#6926</a>)</li>\n<li>Dropped support for pypy 3.9 following its end of support. (<a href=\"https://redirect.github.com/psf/requests/issues/6926\">#6926</a>)</li>\n</ul>\n</blockquote>\n</details>\n<details>\n<summary>Changelog</summary>\n<p><em>Sourced from <a href=\"https://github.com/psf/requests/blob/main/HISTORY.md\">requests's changelog</a>.</em></p>\n<blockquote>\n<h2>2.32.4 (2025-06-10)</h2>\n<p><strong>Security</strong></p>\n<ul>\n<li>CVE-2024-47081 Fixed an issue where a maliciously crafted URL and trusted\nenvironment will retrieve credentials for the wrong hostname/machine from a\nnetrc file.</li>\n</ul>\n<p><strong>Improvements</strong></p>\n<ul>\n<li>Numerous documentation improvements</li>\n</ul>\n<p><strong>Deprecations</strong></p>\n<ul>\n<li>Added support for pypy 3.11 for Linux and macOS.</li>\n<li>Dropped support for pypy 3.9 following its end of support.</li>\n</ul>\n</blockquote>\n</details>\n<details>\n<summary>Commits</summary>\n<ul>\n<li><a href=\"https://github.com/psf/requests/commit/021dc729f0b71a3030cefdbec7fb57a0e80a6cfd\"><code>021dc72</code></a> Polish up release tooling for last manual release</li>\n<li><a href=\"https://github.com/psf/requests/commit/821770e822a20a21b207b3907ea83878bda1d396\"><code>821770e</code></a> Bump version and add release notes for v2.32.4</li>\n<li><a href=\"https://github.com/psf/requests/commit/59f8aa2adf1d3d06bcbf7ce6b13743a1639a5401\"><code>59f8aa2</code></a> Add netrc file search information to authentication documentation (<a href=\"https://redirect.github.com/psf/requests/issues/6876\">#6876</a>)</li>\n<li><a href=\"https://github.com/psf/requests/commit/5b4b64c3467fd7a3c03f91ee641aaa348b6bed3b\"><code>5b4b64c</code></a> Add more tests to prevent regression of CVE 2024 47081</li>\n<li><a href=\"https://github.com/psf/requests/commit/7bc45877a86192af77645e156eb3744f95b47dae\"><code>7bc4587</code></a> Add new test to check netrc auth leak (<a href=\"https://redirect.github.com/psf/requests/issues/6962\">#6962</a>)</li>\n<li><a href=\"https://github.com/psf/requests/commit/96ba401c1296ab1dda74a2365ef36d88f7d144ef\"><code>96ba401</code></a> Only use hostname to do netrc lookup instead of netloc</li>\n<li><a href=\"https://github.com/psf/requests/commit/7341690e842a23cf18ded0abd9229765fa88c4e2\"><code>7341690</code></a> Merge pull request <a href=\"https://redirect.github.com/psf/requests/issues/6951\">#6951</a> from tswast/patch-1</li>\n<li><a href=\"https://github.com/psf/requests/commit/6716d7c9f29df636643fa2489f98890216525cb0\"><code>6716d7c</code></a> remove links</li>\n<li><a href=\"https://github.com/psf/requests/commit/a7e1c745dc23c18e836febd672416ed0c5d8d8ae\"><code>a7e1c74</code></a> Update docs/conf.py</li>\n<li><a href=\"https://github.com/psf/requests/commit/c799b8167a13416833ad3b4f3298261a477e826f\"><code>c799b81</code></a> docs: fix dead links to kenreitz.org</li>\n<li>Additional commits viewable in <a href=\"https://github.com/psf/requests/compare/v2.32.3...v2.32.4\">compare view</a></li>\n</ul>\n</details>\n<br />\n\n\n[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=requests&package-manager=pip&previous-version=2.32.3&new-version=2.32.4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n[//]: # (dependabot-automerge-start)\n[//]: # (dependabot-automerge-end)\n\n---\n\n<details>\n<summary>Dependabot commands and options</summary>\n<br />\n\nYou can trigger Dependabot actions by commenting on this PR:\n- `@dependabot rebase` will rebase this PR\n- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it\n- `@dependabot merge` will merge this PR after your CI passes on it\n- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it\n- `@dependabot cancel merge` will cancel a previously requested merge and block automerging\n- `@dependabot reopen` will reopen this PR if it is closed\n- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually\n- `@dependabot show <dependency name> ignore conditions` will show all of the ignore conditions of the specified dependency\n- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)\n- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)\n- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)\nYou can disable automated security fix PRs for this repo from the [Security Alerts page](https://github.com/ShikhiyevRufat/convertorai/network/alerts).\n\n</details>",
+                "created_at": "2025-06-09T19:29:20Z",
+                "updated_at": "2025-06-12T15:39:35Z",
+                "closed_at": "2025-06-12T15:39:35Z",
+                "merged_at": "2025-06-12T15:39:35Z",
+                "merge_commit_sha": "e7ccb27eece008e8b2955d16c47ec54c3188b894",
+                "assignee": null,
+                "assignees": [],
+                "requested_reviewers": [],
+                "requested_teams": [],
+                "labels": [
+                    {
+                        "id": 8755108833,
+                        "node_id": "LA_kwDOMuUfA88AAAACCdhb4Q",
+                        "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/labels/dependencies",
+                        "name": "dependencies",
+                        "color": "0366d6",
+                        "default": false,
+                        "description": "Pull requests that update a dependency file"
+                    },
+                    {
+                        "id": 8755108837,
+                        "node_id": "LA_kwDOMuUfA88AAAACCdhb5Q",
+                        "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/labels/python",
+                        "name": "python",
+                        "color": "2b67c6",
+                        "default": false,
+                        "description": "Pull requests that update python code"
+                    }
+                ],
+                "milestone": null,
+                "draft": false,
+                "commits_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls/6/commits",
+                "review_comments_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls/6/comments",
+                "review_comment_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls/comments{/number}",
+                "comments_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues/6/comments",
+                "statuses_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/statuses/41a8a894ec3a124ae858831b8f3ef83d671bb70e",
+                "head": {
+                    "label": "ShikhiyevRufat:dependabot/pip/requests-2.32.4",
+                    "ref": "dependabot/pip/requests-2.32.4",
+                    "sha": "41a8a894ec3a124ae858831b8f3ef83d671bb70e",
+                    "user": {
+                        "login": "ShikhiyevRufat",
+                        "id": 165466495,
+                        "node_id": "U_kgDOCdzRfw",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/165466495?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ShikhiyevRufat",
+                        "html_url": "https://github.com/ShikhiyevRufat",
+                        "followers_url": "https://api.github.com/users/ShikhiyevRufat/followers",
+                        "following_url": "https://api.github.com/users/ShikhiyevRufat/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ShikhiyevRufat/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ShikhiyevRufat/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ShikhiyevRufat/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ShikhiyevRufat/orgs",
+                        "repos_url": "https://api.github.com/users/ShikhiyevRufat/repos",
+                        "events_url": "https://api.github.com/users/ShikhiyevRufat/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ShikhiyevRufat/received_events",
+                        "type": "User",
+                        "user_view_type": "public",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 853876483,
+                        "node_id": "R_kgDOMuUfAw",
+                        "name": "convertorai",
+                        "full_name": "ShikhiyevRufat/convertorai",
+                        "private": false,
+                        "owner": {
+                            "login": "ShikhiyevRufat",
+                            "id": 165466495,
+                            "node_id": "U_kgDOCdzRfw",
+                            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/ShikhiyevRufat",
+                            "html_url": "https://github.com/ShikhiyevRufat",
+                            "followers_url": "https://api.github.com/users/ShikhiyevRufat/followers",
+                            "following_url": "https://api.github.com/users/ShikhiyevRufat/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/ShikhiyevRufat/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/ShikhiyevRufat/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/ShikhiyevRufat/subscriptions",
+                            "organizations_url": "https://api.github.com/users/ShikhiyevRufat/orgs",
+                            "repos_url": "https://api.github.com/users/ShikhiyevRufat/repos",
+                            "events_url": "https://api.github.com/users/ShikhiyevRufat/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/ShikhiyevRufat/received_events",
+                            "type": "User",
+                            "user_view_type": "public",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/ShikhiyevRufat/convertorai",
+                        "description": null,
+                        "fork": false,
+                        "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai",
+                        "forks_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/forks",
+                        "keys_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/teams",
+                        "hooks_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/hooks",
+                        "issue_events_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/events",
+                        "assignees_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/tags",
+                        "blobs_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/languages",
+                        "stargazers_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/stargazers",
+                        "contributors_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/contributors",
+                        "subscribers_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/subscribers",
+                        "subscription_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/subscription",
+                        "commits_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/merges",
+                        "archive_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/downloads",
+                        "issues_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/deployments",
+                        "created_at": "2024-09-07T19:26:29Z",
+                        "updated_at": "2025-06-09T19:47:22Z",
+                        "pushed_at": "2025-06-09T19:47:18Z",
+                        "git_url": "git://github.com/ShikhiyevRufat/convertorai.git",
+                        "ssh_url": "git@github.com:ShikhiyevRufat/convertorai.git",
+                        "clone_url": "https://github.com/ShikhiyevRufat/convertorai.git",
+                        "svn_url": "https://github.com/ShikhiyevRufat/convertorai",
+                        "homepage": null,
+                        "size": 150297,
+                        "stargazers_count": 1,
+                        "watchers_count": 1,
+                        "language": "Python",
+                        "has_issues": true,
+                        "has_projects": true,
+                        "has_downloads": true,
+                        "has_wiki": false,
+                        "has_pages": false,
+                        "has_discussions": false,
+                        "forks_count": 0,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 0,
+                        "license": null,
+                        "allow_forking": true,
+                        "is_template": false,
+                        "web_commit_signoff_required": false,
+                        "topics": [],
+                        "visibility": "public",
+                        "forks": 0,
+                        "open_issues": 0,
+                        "watchers": 1,
+                        "default_branch": "main"
+                    }
+                },
+                "base": {
+                    "label": "ShikhiyevRufat:main",
+                    "ref": "main",
+                    "sha": "7f947c6ae30ce6587aa4fc03d4533f2aeab96e31",
+                    "user": {
+                        "login": "ShikhiyevRufat",
+                        "id": 165466495,
+                        "node_id": "U_kgDOCdzRfw",
+                        "avatar_url": "https://avatars.githubusercontent.com/u/165466495?v=4",
+                        "gravatar_id": "",
+                        "url": "https://api.github.com/users/ShikhiyevRufat",
+                        "html_url": "https://github.com/ShikhiyevRufat",
+                        "followers_url": "https://api.github.com/users/ShikhiyevRufat/followers",
+                        "following_url": "https://api.github.com/users/ShikhiyevRufat/following{/other_user}",
+                        "gists_url": "https://api.github.com/users/ShikhiyevRufat/gists{/gist_id}",
+                        "starred_url": "https://api.github.com/users/ShikhiyevRufat/starred{/owner}{/repo}",
+                        "subscriptions_url": "https://api.github.com/users/ShikhiyevRufat/subscriptions",
+                        "organizations_url": "https://api.github.com/users/ShikhiyevRufat/orgs",
+                        "repos_url": "https://api.github.com/users/ShikhiyevRufat/repos",
+                        "events_url": "https://api.github.com/users/ShikhiyevRufat/events{/privacy}",
+                        "received_events_url": "https://api.github.com/users/ShikhiyevRufat/received_events",
+                        "type": "User",
+                        "user_view_type": "public",
+                        "site_admin": false
+                    },
+                    "repo": {
+                        "id": 853876483,
+                        "node_id": "R_kgDOMuUfAw",
+                        "name": "convertorai",
+                        "full_name": "ShikhiyevRufat/convertorai",
+                        "private": false,
+                        "owner": {
+                            "login": "ShikhiyevRufat",
+                            "id": 165466495,
+                            "node_id": "U_kgDOCdzRfw",
+                            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/ShikhiyevRufat",
+                            "html_url": "https://github.com/ShikhiyevRufat",
+                            "followers_url": "https://api.github.com/users/ShikhiyevRufat/followers",
+                            "following_url": "https://api.github.com/users/ShikhiyevRufat/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/ShikhiyevRufat/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/ShikhiyevRufat/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/ShikhiyevRufat/subscriptions",
+                            "organizations_url": "https://api.github.com/users/ShikhiyevRufat/orgs",
+                            "repos_url": "https://api.github.com/users/ShikhiyevRufat/repos",
+                            "events_url": "https://api.github.com/users/ShikhiyevRufat/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/ShikhiyevRufat/received_events",
+                            "type": "User",
+                            "user_view_type": "public",
+                            "site_admin": false
+                        },
+                        "html_url": "https://github.com/ShikhiyevRufat/convertorai",
+                        "description": null,
+                        "fork": false,
+                        "url": "https://api.github.com/repos/ShikhiyevRufat/convertorai",
+                        "forks_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/forks",
+                        "keys_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/keys{/key_id}",
+                        "collaborators_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/collaborators{/collaborator}",
+                        "teams_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/teams",
+                        "hooks_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/hooks",
+                        "issue_events_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues/events{/number}",
+                        "events_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/events",
+                        "assignees_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/assignees{/user}",
+                        "branches_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/branches{/branch}",
+                        "tags_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/tags",
+                        "blobs_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/blobs{/sha}",
+                        "git_tags_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/tags{/sha}",
+                        "git_refs_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/refs{/sha}",
+                        "trees_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/trees{/sha}",
+                        "statuses_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/statuses/{sha}",
+                        "languages_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/languages",
+                        "stargazers_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/stargazers",
+                        "contributors_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/contributors",
+                        "subscribers_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/subscribers",
+                        "subscription_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/subscription",
+                        "commits_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/commits{/sha}",
+                        "git_commits_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/git/commits{/sha}",
+                        "comments_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/comments{/number}",
+                        "issue_comment_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues/comments{/number}",
+                        "contents_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/contents/{+path}",
+                        "compare_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/compare/{base}...{head}",
+                        "merges_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/merges",
+                        "archive_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/{archive_format}{/ref}",
+                        "downloads_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/downloads",
+                        "issues_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues{/number}",
+                        "pulls_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls{/number}",
+                        "milestones_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/milestones{/number}",
+                        "notifications_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/notifications{?since,all,participating}",
+                        "labels_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/labels{/name}",
+                        "releases_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/releases{/id}",
+                        "deployments_url": "https://api.github.com/repos/ShikhiyevRufat/convertorai/deployments",
+                        "created_at": "2024-09-07T19:26:29Z",
+                        "updated_at": "2025-06-09T19:47:22Z",
+                        "pushed_at": "2025-06-09T19:47:18Z",
+                        "git_url": "git://github.com/ShikhiyevRufat/convertorai.git",
+                        "ssh_url": "git@github.com:ShikhiyevRufat/convertorai.git",
+                        "clone_url": "https://github.com/ShikhiyevRufat/convertorai.git",
+                        "svn_url": "https://github.com/ShikhiyevRufat/convertorai",
+                        "homepage": null,
+                        "size": 150297,
+                        "stargazers_count": 1,
+                        "watchers_count": 1,
+                        "language": "Python",
+                        "has_issues": true,
+                        "has_projects": true,
+                        "has_downloads": true,
+                        "has_wiki": false,
+                        "has_pages": false,
+                        "has_discussions": false,
+                        "forks_count": 0,
+                        "mirror_url": null,
+                        "archived": false,
+                        "disabled": false,
+                        "open_issues_count": 0,
+                        "license": null,
+                        "allow_forking": true,
+                        "is_template": false,
+                        "web_commit_signoff_required": false,
+                        "topics": [],
+                        "visibility": "public",
+                        "forks": 0,
+                        "open_issues": 0,
+                        "watchers": 1,
+                        "default_branch": "main"
+                    }
+                },
+                "_links": {
+                    "self": {
+                        "href": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls/6"
+                    },
+                    "html": {
+                        "href": "https://github.com/ShikhiyevRufat/convertorai/pull/6"
+                    },
+                    "issue": {
+                        "href": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues/6"
+                    },
+                    "comments": {
+                        "href": "https://api.github.com/repos/ShikhiyevRufat/convertorai/issues/6/comments"
+                    },
+                    "review_comments": {
+                        "href": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls/6/comments"
+                    },
+                    "review_comment": {
+                        "href": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls/comments{/number}"
+                    },
+                    "commits": {
+                        "href": "https://api.github.com/repos/ShikhiyevRufat/convertorai/pulls/6/commits"
+                    },
+                    "statuses": {
+                        "href": "https://api.github.com/repos/ShikhiyevRufat/convertorai/statuses/41a8a894ec3a124ae858831b8f3ef83d671bb70e"
+                    }
+                },
+                "author_association": "CONTRIBUTOR",
+                "auto_merge": null,
+                "active_lock_reason": null,
+                "merged": true,
+                "mergeable": null,
+                "rebaseable": null,
+                "mergeable_state": "unknown",
+                "merged_by": {
+                    "login": "ShikhiyevRufat",
+                    "id": 165466495,
+                    "node_id": "U_kgDOCdzRfw",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/165466495?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/ShikhiyevRufat",
+                    "html_url": "https://github.com/ShikhiyevRufat",
+                    "followers_url": "https://api.github.com/users/ShikhiyevRufat/followers",
+                    "following_url": "https://api.github.com/users/ShikhiyevRufat/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/ShikhiyevRufat/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/ShikhiyevRufat/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/ShikhiyevRufat/subscriptions",
+                    "organizations_url": "https://api.github.com/users/ShikhiyevRufat/orgs",
+                    "repos_url": "https://api.github.com/users/ShikhiyevRufat/repos",
+                    "events_url": "https://api.github.com/users/ShikhiyevRufat/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/ShikhiyevRufat/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "comments": 0,
+                "review_comments": 0,
+                "maintainer_can_modify": false,
+                "commits": 1,
+                "additions": 1,
+                "deletions": 1,
+                "changed_files": 1
+            }
+        },
+        "public": true,
+        "created_at": "2025-06-12T15:39:36Z"
+    },
+    {
+        "id": "50832442193",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression_OLS",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24860389108,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "662b8e271a8b4ee70cc1fcd16a1a114347707906",
+            "before": "3e101410e9b743c63b650286b6a25fdf8c0b3494",
+            "commits": [
+                {
+                    "sha": "662b8e271a8b4ee70cc1fcd16a1a114347707906",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "Test line",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS/commits/662b8e271a8b4ee70cc1fcd16a1a114347707906"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-12T15:38:28Z"
+    },
+    {
+        "id": "50790835677",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression_OLS",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24840312998,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "3e101410e9b743c63b650286b6a25fdf8c0b3494",
+            "before": "0466f2aacae731a90cd41f3bb899098b0cf98691",
+            "commits": [
+                {
+                    "sha": "3e101410e9b743c63b650286b6a25fdf8c0b3494",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "I write new line about OLS",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS/commits/3e101410e9b743c63b650286b6a25fdf8c0b3494"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-11T19:22:39Z"
+    },
+    {
+        "id": "50789818680",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression_OLS",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24839818846,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "0466f2aacae731a90cd41f3bb899098b0cf98691",
+            "before": "dd70f1d408e25bad1334166696b483b1fc98c5d7",
+            "commits": [
+                {
+                    "sha": "0466f2aacae731a90cd41f3bb899098b0cf98691",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "I write OLS model",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS/commits/0466f2aacae731a90cd41f3bb899098b0cf98691"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-11T18:54:11Z"
+    },
+    {
+        "id": "50788552326",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 810385815,
+            "name": "ShikhiyevRufat/ShikhiyevRufat",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/ShikhiyevRufat"
+        },
+        "payload": {
+            "repository_id": 810385815,
+            "push_id": 24839205075,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "f7a2f0fedc13c616aaaef6e58716a18f6bcf1389",
+            "before": "08d0a2383fac7d86ed8e26f255534fbb70b7dc72",
+            "commits": [
+                {
+                    "sha": "f7a2f0fedc13c616aaaef6e58716a18f6bcf1389",
+                    "author": {
+                        "email": "165466495+ShikhiyevRufat@users.noreply.github.com",
+                        "name": "Shikhiyev Rufat"
+                    },
+                    "message": "Update README.md\n\nTest2",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/ShikhiyevRufat/commits/f7a2f0fedc13c616aaaef6e58716a18f6bcf1389"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-11T18:19:43Z"
+    },
+    {
+        "id": "50785591872",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 1000288361,
+            "name": "ShikhiyevRufat/Linear_Regression_OLS",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS"
+        },
+        "payload": {
+            "repository_id": 1000288361,
+            "push_id": 24837774832,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "dd70f1d408e25bad1334166696b483b1fc98c5d7",
+            "before": "32cff85d08dbdab9d05732462617de3eeb8ce9d6",
+            "commits": [
+                {
+                    "sha": "dd70f1d408e25bad1334166696b483b1fc98c5d7",
+                    "author": {
+                        "email": "165466495+ShikhiyevRufat@users.noreply.github.com",
+                        "name": "Shikhiyev Rufat"
+                    },
+                    "message": "Update README.md\n\nTest2",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Linear_Regression_OLS/commits/dd70f1d408e25bad1334166696b483b1fc98c5d7"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-11T17:01:42Z"
+    },
+    {
+        "id": "50739543304",
+        "type": "PushEvent",
+        "actor": {
+            "id": 165466495,
+            "login": "ShikhiyevRufat",
+            "display_login": "ShikhiyevRufat",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ShikhiyevRufat",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165466495?"
+        },
+        "repo": {
+            "id": 998753353,
+            "name": "ShikhiyevRufat/Data-Structures-and-Algorithms",
+            "url": "https://api.github.com/repos/ShikhiyevRufat/Data-Structures-and-Algorithms"
+        },
+        "payload": {
+            "repository_id": 998753353,
+            "push_id": 24815428115,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "8a0efd4beb4d9ccad50696bdfac25f757b10e4fd",
+            "before": "75f702112d10bcb0ba2e7ccb0f8f59a9891852ab",
+            "commits": [
+                {
+                    "sha": "8a0efd4beb4d9ccad50696bdfac25f757b10e4fd",
+                    "author": {
+                        "email": "shikhiyevrufat@gmail.com",
+                        "name": "Rufat Shikhiyev"
+                    },
+                    "message": "New codes",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/ShikhiyevRufat/Data-Structures-and-Algorithms/commits/8a0efd4beb4d9ccad50696bdfac25f757b10e4fd"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2025-06-10T18:43:36Z"
+    }
+]
